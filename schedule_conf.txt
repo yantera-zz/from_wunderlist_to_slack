@@ -1,0 +1,6 @@
+slack_token,[slack_toke]
+wunderlist_token,[wunderlist_token]
+client_id,[wunder_list_client_id]
+channel,[slack_channel]
+wunderlist_url,[wunderlist_task_url]
+wunderlist_link,[wunderlist_link]
