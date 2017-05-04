@@ -19,7 +19,7 @@ require 'json'
 # - wunder_list_url      # wunderlistで叩きたいapiのURL
 
 
-conf_file_path = '/home/[ユーザー名]/slack_bots/schedule_conf.txt' # cronを実行するユーザーがfile openするので絶対パスがおすすめ
+conf_file_path = '/home/[ユーザー名]/wunderlist/schedule_conf.txt' # cronを実行するユーザーがfile openするので絶対パスがおすすめ
 
 ### confの取得
 datas = []
